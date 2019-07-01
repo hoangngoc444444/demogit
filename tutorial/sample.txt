@@ -1,2 +1,2 @@
 Đến cả con khỉ cũng hiểu được lệnh Git, next commit, thrid commit 
-Lưu lại trạng thái của index
+Lưu lại trạng thái của index, sua them conflic
