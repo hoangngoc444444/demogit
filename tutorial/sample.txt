@@ -1,1 +1,2 @@
-Đến cả con khỉ cũng hiểu được lệnh Git, next commit, thrid commit
+Đến cả con khỉ cũng hiểu được lệnh Git, next commit, thrid commit 
+Lưu lại trạng thái của index
