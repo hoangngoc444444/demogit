@@ -1,1 +1,2 @@
 Đến cả con khỉ cũng hiểu được lệnh Git, next commit, thrid commit
+Lấy nội dung của remote repository
