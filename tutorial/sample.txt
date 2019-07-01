@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 
 Đến cả con khỉ cũng hiểu được lệnh Git, next commit, thrid commit
 Lấy nội dung của remote repository
 
 
 
+=======
+Đến cả con khỉ cũng hiểu được lệnh Git, next commit, thrid commit 
+Lưu lại trạng thái của index, sua them conflic
+>>>>>>> c43de07dbcd58229f87a35565850e32fd21946a4
